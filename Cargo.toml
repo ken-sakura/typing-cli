@@ -1,0 +1,11 @@
+[package]
+name = "typing-cli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.27" # ターミナルの制御（色付けやキー入力）
+rand = "0.8"       # ランダムな文章の選択
+serde = { version = "1.0", features = ["derive"] } # JSONデータのパース
+serde_json = "1.0" # JSONデータのパース
+clap = { version = "4.4", features = ["derive"] }  # コマンドライン引数の処理ty

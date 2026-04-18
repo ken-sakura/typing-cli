@@ -1,0 +1,17 @@
+[
+  { "japanese": "こんにちは", "romaji": "konnichiwa" },
+  { "japanese": "おはようございます", "romaji": "ohayougozaimasu" },
+  { "japanese": "ありがとう", "romaji": "arigatou" },
+  { "japanese": "さようなら", "romaji": "sayounara" },
+  { "japanese": "プログラミングは楽しい", "romaji": "puroguraminguhatanoshii" },
+  { "japanese": "ラスト言語", "romaji": "rasutogengo" },
+  { "japanese": "コマンドラインツール", "romaji": "komandoraintu-ru" },
+  { "japanese": "キーボード入力", "romaji": "ki-bo-donyuuryoku" },
+  { "japanese": "一分間タイピング", "romaji": "ippunkantaipingu" },
+  { "japanese": "エラーを解決する", "romaji": "era-wokaiketususru" },
+  { "japanese": "コンパイル成功", "romaji": "konpairuseikou" },
+  { "japanese": "メモリ安全", "romaji": "memorianzen" },
+  { "japanese": "所有権と借用", "romaji": "shoyuukentoshakuyou" },
+  { "japanese": "ターミナルアプリ", "romaji": "ta-minaruapuri" },
+  { "japanese": "パターンマッチング", "romaji": "pata-nmattchingu" }
+]
